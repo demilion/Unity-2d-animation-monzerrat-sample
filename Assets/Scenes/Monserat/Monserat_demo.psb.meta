@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 251de6ddf6090cc96b4544f169de3a42
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: muertos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 734
+      width: 188
+      height: 199
+    spriteID: 33a66a032d26536a491c45064a4f90cf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 841, y: 107}
+  - name: cara muerta
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 3919
+      width: 175
+      height: 170
+    spriteID: 4eeedfffb3023d2f4970d443d6972578
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -343, y: 2305}
+  - name: murio ella
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 521
+      width: 186
+      height: 205
+    spriteID: dad28c79795117cfaacdc50ad5041d4b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1235, y: -1058}
+  - name: color ojos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1049
+      y: 3173
+      width: 164
+      height: 51
+    spriteID: f26b2a2614acb0616a9f0f05dc88d1e6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 478, y: 1486}
+  - name: Layer 51(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3399
+      width: 351
+      height: 512
+    spriteID: fe859791340c861518a36868c719f540
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -449, y: 1998}
+  - name: linea cabeza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1880
+      y: 1815
+      width: 164
+      height: 185
+    spriteID: 83f0237d547af40cfbfdaa77704768f8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1306, y: 237}
+  - name: Layer 69(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3919
+      width: 212
+      height: 141
+    spriteID: 001ea88cbd202457bae7634566e1ca8e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -546, y: 2267}
+  - name: Layer 49(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1221
+      y: 3173
+      width: 34
+      height: 27
+    spriteID: 29061b77560e08218b704a5f448637d7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 574, y: 1552}
+  - name: Layer 48(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 941
+      width: 209
+      height: 123
+    spriteID: 8822a3182097ca498a530e148d44737a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1248, y: -701}
+  - name: cabeza color
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 4
+      width: 243
+      height: 296
+    spriteID: 4dc1947f65f0ad0009535d04698a9dd5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1297, y: -1575}
+  - name: Layer 63 Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1327
+      y: 1815
+      width: 545
+      height: 484
+    spriteID: 540b9c2e5f3b9b2378b7b2bdc25e62b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 955, y: 747}
+  - name: 01 piernas Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2278
+      width: 513
+      height: 1113
+    spriteID: 59f32c4e3ee1b1b148bae6b90c23d17e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -385, y: 2278}
+  - name: Paint Layer 90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 308
+      width: 203
+      height: 205
+    spriteID: 12786d21e9f69f1dea8c12f383674a13
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1281, y: -1133}
+  - name: '03 PELO '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 3262
+      width: 660
+      height: 722
+    spriteID: 2a01de79e58127d86a1d32cbc65642ea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 229, y: 2039}
+  - name: cuerpo color
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1327
+      y: 4
+      width: 462
+      height: 1066
+    spriteID: a0813b15a8a4e1c4e8a041ee52d16936
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 914, y: -18}
+  - name: Layer 52(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 2278
+      width: 516
+      height: 976
+    spriteID: 51a2c2aa0cf68d41fa756da55e61a798
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 162, y: 2254}
+  - name: Layer 88 Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1049
+      y: 2278
+      width: 203
+      height: 887
+    spriteID: d59fdc24ba83cb59c9e6f3d70e29ba42
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 304, y: 1348}
+  - name: Paint Layer 106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1327
+      y: 2307
+      width: 328
+      height: 508
+    spriteID: 930818902c89c8d71a2514bfb73e5038
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 847, y: 1202}
+  - name: Layer 89 Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1327
+      y: 1078
+      width: 525
+      height: 729
+    spriteID: a6b308680f9e3df91b270fe6faa5242c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1004, y: -21}
+  - name: Paint Layer 105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1315
+      height: 2266
+    spriteID: 6e27e954ccf820547ac1e88ab3cb9c87
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  rigSpriteImportData:
+  - name: muertos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 734
+      width: 188
+      height: 199
+    spriteID: ffe2c7cf5bb10545baf604136a8778bc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 841, y: 107}
+  - name: cara muerta
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 3919
+      width: 175
+      height: 170
+    spriteID: ffcb196db2898c20ea297c0381e9570c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -343, y: 2305}
+  - name: murio ella
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 521
+      width: 186
+      height: 205
+    spriteID: da4b85b9d2e671dd387cb41dce602adb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1235, y: -1058}
+  - name: color ojos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1049
+      y: 3173
+      width: 164
+      height: 51
+    spriteID: 9203103e26c41058e94f9fa0b4601c7a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 478, y: 1486}
+  - name: Layer 51(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3399
+      width: 351
+      height: 512
+    spriteID: 2eaebad496dd642cbbc9ed705513288a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -449, y: 1998}
+  - name: linea cabeza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1880
+      y: 1815
+      width: 164
+      height: 185
+    spriteID: d522c6abced053e459b7dfdb6adfc440
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1306, y: 237}
+  - name: Layer 69(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3919
+      width: 212
+      height: 141
+    spriteID: 8b949efd4c5655938a2902f6763f2ec0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -546, y: 2267}
+  - name: Layer 49(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1221
+      y: 3173
+      width: 34
+      height: 27
+    spriteID: acfd3d99172fa3b0ca696e06c98248b7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 574, y: 1552}
+  - name: Layer 48(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 941
+      width: 209
+      height: 123
+    spriteID: 9a58eac77395bd0a6bce8d4f93af24ea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1248, y: -701}
+  - name: cabeza color
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 4
+      width: 243
+      height: 296
+    spriteID: 591a9c6aa9641acd4aebd2fea4207065
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1297, y: -1575}
+  - name: Layer 63 Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1327
+      y: 1815
+      width: 545
+      height: 484
+    spriteID: 614c92dbfb0da6b68ab9039e6d1cb478
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 955, y: 747}
+  - name: 01 piernas Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2278
+      width: 513
+      height: 1113
+    spriteID: d5ca1b47c556369438851e428786d7df
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -385, y: 2278}
+  - name: Paint Layer 90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1797
+      y: 308
+      width: 203
+      height: 205
+    spriteID: ec0e7540d9c2c46579541487f8cd96e6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1281, y: -1133}
+  - name: '03 PELO '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 3262
+      width: 660
+      height: 722
+    spriteID: c101385d5f6ec92ec8c658097375820b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 229, y: 2039}
+  - name: cuerpo color
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1327
+      y: 4
+      width: 462
+      height: 1066
+    spriteID: ed2b6ed79d85848709eb613ca68d5713
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 914, y: -18}
+  - name: Layer 52(pasted)
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 525
+      y: 2278
+      width: 516
+      height: 976
+    spriteID: 8dced4978bdf9f349ab2f653663164aa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 162, y: 2254}
+  - name: Layer 88 Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1049
+      y: 2278
+      width: 203
+      height: 887
+    spriteID: ad10b7cb0df33e0368c699c705d9ed6e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 304, y: 1348}
+  - name: Paint Layer 106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1327
+      y: 2307
+      width: 328
+      height: 508
+    spriteID: 0852fc286b79bfba39321bc18c9079e0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 847, y: 1202}
+  - name: Layer 89 Merged
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1327
+      y: 1078
+      width: 525
+      height: 729
+    spriteID: fbecf85ff91beb280a3b28711112de1a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1004, y: -21}
+  - name: Paint Layer 105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1315
+      height: 2266
+    spriteID: 5a9fc9a202789dd588622cf58016fe79
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 1315, y: 2266}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: muertos
+    spriteName: muertos
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 33a66a032d26536a491c45064a4f90cf
+    layerID: 0
+    mosaicPosition: {x: 1797, y: 734}
+  - name: cara muerta
+    spriteName: cara muerta
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4eeedfffb3023d2f4970d443d6972578
+    layerID: 1615258703
+    mosaicPosition: {x: 224, y: 3919}
+  - name: murio ella
+    spriteName: murio ella
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dad28c79795117cfaacdc50ad5041d4b
+    layerID: 1322153216
+    mosaicPosition: {x: 1797, y: 521}
+  - name: color ojos
+    spriteName: color ojos
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f26b2a2614acb0616a9f0f05dc88d1e6
+    layerID: 552469476
+    mosaicPosition: {x: 1049, y: 3173}
+  - name: Layer 51(pasted)
+    spriteName: Layer 51(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fe859791340c861518a36868c719f540
+    layerID: -356346903
+    mosaicPosition: {x: 4, y: 3399}
+  - name: linea cabeza
+    spriteName: linea cabeza
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 83f0237d547af40cfbfdaa77704768f8
+    layerID: 1967303545
+    mosaicPosition: {x: 1880, y: 1815}
+  - name: Layer 69(pasted)
+    spriteName: Layer 69(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 001ea88cbd202457bae7634566e1ca8e
+    layerID: 858667968
+    mosaicPosition: {x: 4, y: 3919}
+  - name: Layer 49(pasted)
+    spriteName: Layer 49(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 29061b77560e08218b704a5f448637d7
+    layerID: 861044034
+    mosaicPosition: {x: 1221, y: 3173}
+  - name: Layer 48(pasted)
+    spriteName: Layer 48(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8822a3182097ca498a530e148d44737a
+    layerID: -2140158435
+    mosaicPosition: {x: 1797, y: 941}
+  - name: cabeza color
+    spriteName: cabeza color
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4dc1947f65f0ad0009535d04698a9dd5
+    layerID: -343001393
+    mosaicPosition: {x: 1797, y: 4}
+  - name: Layer 63 Merged
+    spriteName: Layer 63 Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 540b9c2e5f3b9b2378b7b2bdc25e62b4
+    layerID: 785988634
+    mosaicPosition: {x: 1327, y: 1815}
+  - name: 01 piernas Merged
+    spriteName: 01 piernas Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 59f32c4e3ee1b1b148bae6b90c23d17e
+    layerID: 2035766023
+    mosaicPosition: {x: 4, y: 2278}
+  - name: Paint Layer 90
+    spriteName: Paint Layer 90
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 12786d21e9f69f1dea8c12f383674a13
+    layerID: 427150636
+    mosaicPosition: {x: 1797, y: 308}
+  - name: '03 PELO '
+    spriteName: '03 PELO '
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2a01de79e58127d86a1d32cbc65642ea
+    layerID: -958074863
+    mosaicPosition: {x: 525, y: 3262}
+  - name: cuerpo color
+    spriteName: cuerpo color
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a0813b15a8a4e1c4e8a041ee52d16936
+    layerID: -1299287901
+    mosaicPosition: {x: 1327, y: 4}
+  - name: Layer 52(pasted)
+    spriteName: Layer 52(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 51a2c2aa0cf68d41fa756da55e61a798
+    layerID: -1043199238
+    mosaicPosition: {x: 525, y: 2278}
+  - name: Layer 88 Merged
+    spriteName: Layer 88 Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d59fdc24ba83cb59c9e6f3d70e29ba42
+    layerID: -1156382965
+    mosaicPosition: {x: 1049, y: 2278}
+  - name: Paint Layer 106
+    spriteName: Paint Layer 106
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 930818902c89c8d71a2514bfb73e5038
+    layerID: 1575564478
+    mosaicPosition: {x: 1327, y: 2307}
+  - name: Layer 89 Merged
+    spriteName: Layer 89 Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a6b308680f9e3df91b270fe6faa5242c
+    layerID: -549108346
+    mosaicPosition: {x: 1327, y: 1078}
+  - name: Paint Layer 105
+    spriteName: Paint Layer 105
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6e27e954ccf820547ac1e88ab3cb9c87
+    layerID: 1575564481
+    mosaicPosition: {x: 4, y: 4}
+  rigPSDLayers:
+  - name: muertos
+    spriteName: muertos
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ffe2c7cf5bb10545baf604136a8778bc
+    layerID: 0
+    mosaicPosition: {x: 1797, y: 734}
+  - name: cara muerta
+    spriteName: cara muerta
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ffcb196db2898c20ea297c0381e9570c
+    layerID: 1615258703
+    mosaicPosition: {x: 224, y: 3919}
+  - name: murio ella
+    spriteName: murio ella
+    isGroup: 0
+    parentIndex: -1
+    spriteID: da4b85b9d2e671dd387cb41dce602adb
+    layerID: 1322153216
+    mosaicPosition: {x: 1797, y: 521}
+  - name: color ojos
+    spriteName: color ojos
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9203103e26c41058e94f9fa0b4601c7a
+    layerID: 552469476
+    mosaicPosition: {x: 1049, y: 3173}
+  - name: Layer 51(pasted)
+    spriteName: Layer 51(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2eaebad496dd642cbbc9ed705513288a
+    layerID: -356346903
+    mosaicPosition: {x: 4, y: 3399}
+  - name: linea cabeza
+    spriteName: linea cabeza
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d522c6abced053e459b7dfdb6adfc440
+    layerID: 1967303545
+    mosaicPosition: {x: 1880, y: 1815}
+  - name: Layer 69(pasted)
+    spriteName: Layer 69(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8b949efd4c5655938a2902f6763f2ec0
+    layerID: 858667968
+    mosaicPosition: {x: 4, y: 3919}
+  - name: Layer 49(pasted)
+    spriteName: Layer 49(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: acfd3d99172fa3b0ca696e06c98248b7
+    layerID: 861044034
+    mosaicPosition: {x: 1221, y: 3173}
+  - name: Layer 48(pasted)
+    spriteName: Layer 48(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9a58eac77395bd0a6bce8d4f93af24ea
+    layerID: -2140158435
+    mosaicPosition: {x: 1797, y: 941}
+  - name: cabeza color
+    spriteName: cabeza color
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 591a9c6aa9641acd4aebd2fea4207065
+    layerID: -343001393
+    mosaicPosition: {x: 1797, y: 4}
+  - name: Layer 63 Merged
+    spriteName: Layer 63 Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 614c92dbfb0da6b68ab9039e6d1cb478
+    layerID: 785988634
+    mosaicPosition: {x: 1327, y: 1815}
+  - name: 01 piernas Merged
+    spriteName: 01 piernas Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d5ca1b47c556369438851e428786d7df
+    layerID: 2035766023
+    mosaicPosition: {x: 4, y: 2278}
+  - name: Paint Layer 90
+    spriteName: Paint Layer 90
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ec0e7540d9c2c46579541487f8cd96e6
+    layerID: 427150636
+    mosaicPosition: {x: 1797, y: 308}
+  - name: '03 PELO '
+    spriteName: '03 PELO '
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c101385d5f6ec92ec8c658097375820b
+    layerID: -958074863
+    mosaicPosition: {x: 525, y: 3262}
+  - name: cuerpo color
+    spriteName: cuerpo color
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ed2b6ed79d85848709eb613ca68d5713
+    layerID: -1299287901
+    mosaicPosition: {x: 1327, y: 4}
+  - name: Layer 52(pasted)
+    spriteName: Layer 52(pasted)
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8dced4978bdf9f349ab2f653663164aa
+    layerID: -1043199238
+    mosaicPosition: {x: 525, y: 2278}
+  - name: Layer 88 Merged
+    spriteName: Layer 88 Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ad10b7cb0df33e0368c699c705d9ed6e
+    layerID: -1156382965
+    mosaicPosition: {x: 1049, y: 2278}
+  - name: Paint Layer 106
+    spriteName: Paint Layer 106
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0852fc286b79bfba39321bc18c9079e0
+    layerID: 1575564478
+    mosaicPosition: {x: 1327, y: 2307}
+  - name: Layer 89 Merged
+    spriteName: Layer 89 Merged
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fbecf85ff91beb280a3b28711112de1a
+    layerID: -549108346
+    mosaicPosition: {x: 1327, y: 1078}
+  - name: Paint Layer 105
+    spriteName: Paint Layer 105
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5a9fc9a202789dd588622cf58016fe79
+    layerID: 1575564481
+    mosaicPosition: {x: 4, y: 4}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: Monserat_demo Texture
+  prefabAssetName: Monserat_demo Prefab
+  spriteLibAssetName: Monserat_demo Sprite Lib
+  skeletonAssetName: Monserat_demo Skeleton
+  secondarySpriteTextures: []
