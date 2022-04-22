@@ -48,7 +48,6 @@ Taking advantage of the release of the sprites in itch.io I am going to show the
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://demiilion.itch.io/montserat-free-visual-novel-sprite)
 
 I was reviewing demos of unity on rigging even so I preferred to give a step by step guide on how to animate the sprites for a graphic novel project that we had thought about years ago.
 Taking advantage of the release of the sprites in itch.io I am going to show the animation for the Montserrat character was made. 
