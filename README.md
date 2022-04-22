@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://demiilion.itch.io/montserat-free-visual-novel-sprite">
-    <img src="https://img.itch.zone/aW1nLzcyNDI2NjEucG5n/315x250%23c/pqmJqm.png" alt="Logo" width="80" height="80">
+  <a href="https://devdemilion.itch.io/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hxqfsWzE26nNiHR8B_zChRin-3VMcLS9jFsIjWN1bHoaWHQ&s" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">2d-animation-monzerrat-sample</h3>
