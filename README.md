@@ -74,14 +74,14 @@ This demos uses:
 
 
 
- <a href="https://demiilion.itch.io/montserat-free-visual-novel-sprite">
+ <a href="https://devdemilion.itch.io/montserat-free-visual-novel-sprite">
     <img data-screenshot_id="7242671" srcset="https://img.itch.zone/aW1hZ2UvMTI0MjIzMC83MjQyNjcxLnBuZw==/347x500/vkR209.png 1x, https://img.itch.zone/aW1hZ2UvMTI0MjIzMC83MjQyNjcxLnBuZw==/794x1000/WP6asJ.png 2x" class="screenshot" src="https://img.itch.zone/aW1hZ2UvMTI0MjIzMC83MjQyNjcxLnBuZw==/347x500/vkR209.png">  </a>
 
 
 ### Prerequisites
 
  2D PSD IMPORTER
-![images2-url] (https://demiilion.itch.io/montserat-free-visual-novel-sprite)
+![images2-url] (https://devdemilion.itch.io/montserat-free-visual-novel-sprite)
 
 
 ### Installation
