@@ -35,7 +35,6 @@ Taking advantage of the release of the sprites in itch.io I am going to show the
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
