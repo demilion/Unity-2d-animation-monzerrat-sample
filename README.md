@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://devdemilion.itch.io/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7hxqfsWzE26nNiHR8B_zChRin-3VMcLS9jFsIjWN1bHoaWHQ&s" alt="Logo" width="80" height="80">
+    <img src="https://cdn.icon-icons.com/icons2/749/PNG/512/medal-1_icon-icons.com_63745.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">2d-animation-monzerrat-sample</h3>
