@@ -80,8 +80,7 @@ This demos uses:
 ### Prerequisites
 
  2D PSD IMPORTER
-![images2-url] (https://devdemilion.itch.io/montserat-free-visual-novel-sprite)
-
+![images2-url] 
 
 ### Installation
 
