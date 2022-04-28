@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://devdemilion.itch.io/">
+  <a href="https://itch.io/">
     <img src="https://cdn.icon-icons.com/icons2/749/PNG/512/medal-1_icon-icons.com_63745.png" alt="Logo" width="80" height="80">
   </a>
 
